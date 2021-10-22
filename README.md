@@ -1,5 +1,7 @@
 # LinkedIn SQL: Data Reporting and Analysis
 
+![Simple DataTables using Bootstrap 4](https://github.com/satrianivzla/LinkedIn-SQL/blob/main/curso1.png)
+
 SQL: Data Reporting and Analysis
 Don't let your reporting system hold you back 
 
