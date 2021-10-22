@@ -24,6 +24,7 @@ In this course, learn how to get the data you want by writing a bit of SQL code.
 
  # Course Instructor  
  ![Simple DataTables using Bootstrap 4](https://github.com/satrianivzla/LinkedIn-SQL/blob/main/curso.png)
+ 
  [Emma Saunders](https://www.linkedin.com/learning/instructors/emma-saunders) Data Consultant specializing in data visualization on the web
   
  # Course link   
