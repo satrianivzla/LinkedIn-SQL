@@ -17,7 +17,7 @@ In this course, learn how to get the data you want by writing a bit of SQL code.
 * Merging data from multiple tables
 * Using variables, functions, and procedures
   
-  # Sakila Database 
+# Sakila Database 
   To be able to follow and practice the topics of this course, you will need a copy of the Sakila Database, that you can download from [here](https://dev.mysql.com/doc/sakila/en/)
     
  # Course link   
