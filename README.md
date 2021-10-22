@@ -23,6 +23,9 @@ In this course, learn how to get the data you want by writing a bit of SQL code.
   
 # Sakila Database 
   To be able to follow and practice the topics of this course, you will need a copy of the Sakila Database, that you can download from [here](https://dev.mysql.com/doc/sakila/en/)
-    
+
+ # Course Instructor  
+ [Emma Saunders](https://www.linkedin.com/learning/instructors/emma-saunders) Data Consultant specializing in data visualization on the web
+  
  # Course link   
 [LinkedIn](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2/don-t-let-your-reporting-system-hold-you-back) 
