@@ -10,6 +10,8 @@ Are you often stuck waiting in line for data, and wish you could just retrieve i
 
 In this course, learn how to get the data you want by writing a bit of SQL code. You won't just be able to pull data out of the database; you'll be able to manipulate it: merging it, grouping it, and relabeling it to get just the report you want. Join Emma Saunders as she shows how to write simple SQL queries for data reporting and analysis using a publicly accessible online database. Learn how to filter, group, and sort data, using built-in SQL functions to format or calculate results. Discover how to perform more complex queries, such as joining data together from different database tables. Last but not least, she introduces views, procedures, functions, and variables.
 
+![Simple DataTables using Bootstrap 4](https://github.com/satrianivzla/LinkedIn-SQL/blob/main/curso.png)
+
 # Learning objectives
 
 * Retrieving data with SELECT statements
