@@ -21,6 +21,9 @@ In this course, learn how to get the data you want by writing a bit of SQL code.
   
 # Sakila Database 
   To be able to follow and practice the topics of this course, you will need a copy of the Sakila Database, that you can download from [here](https://dev.mysql.com/doc/sakila/en/)
+  
+# Tools  
+* [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
  # Course Instructor  
  ![Simple DataTables using Bootstrap 4](https://github.com/satrianivzla/LinkedIn-SQL/blob/main/curso.png)
