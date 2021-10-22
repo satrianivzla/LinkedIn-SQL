@@ -1,4 +1,4 @@
-# LinkedIn-MYSQL
+# LinkedIn SQL: Data Reporting and Analysis
 
 SQL: Data Reporting and Analysis
 Don't let your reporting system hold you back 
