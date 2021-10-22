@@ -15,4 +15,4 @@ Do you rely on IT to get the data you need? Are you often stuck waiting in line 
 * Merging data from multiple tables
 * Using variables, functions, and procedures
     
-https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2/don-t-let-your-reporting-system-hold-you-back
+[LinkedIn](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2/don-t-let-your-reporting-system-hold-you-back) 
